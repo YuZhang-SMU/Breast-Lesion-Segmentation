@@ -39,7 +39,7 @@ You can reclick to generate three new seed points and save them to overwrite the
 
 (3) Run './preprocess/mcg_high/demos/demo_im2mcg.m'
 
-(4) copy the high-level saliency map in the dir of './preprocess/mcg_high/demos/results/sp_high' and save into the dir of './preprocess'
+(4) copy the high-level saliency map in the dir of './preprocess/mcg_high/demos/results/sp_high' and save them into the dir of './preprocess'
 
 # foreground&background saliency map generation
 Run './preprocess/LSC_low/saliency_map.m'.
