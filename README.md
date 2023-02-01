@@ -3,6 +3,9 @@
 This is an implementation of SMU-Net. We will introduce how to preprocess data to generate foreground and background saliency map.
 Meanwhile, we also provide a keras & pytorch implementation of our model to meet with the need of different users.
 
+![image](https://github.com/YuZhang-SMU/Breast-Lesion-Segmentation/blob/master/readme/SMU-Net.png)
+
+#
 image preprocessing includes seed point generation, high-level saliency map generation, final foreground&background saliency map generation, shape constraint map generation and position map generation.
 
 # seed point generation
